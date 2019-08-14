@@ -1,4 +1,4 @@
-# stormy
+# Stormy #
 
 This repository will contain implementations of the cryptographic protocols
 given in
